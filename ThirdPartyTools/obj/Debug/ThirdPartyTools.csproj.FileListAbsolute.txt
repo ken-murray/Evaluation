@@ -1,0 +1,11 @@
+C:\Users\Ken\Downloads\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\Ken\Downloads\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\Ken\Downloads\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csproj.CoreCompileInputs.cache
+C:\Users\Ken\Downloads\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\Ken\Downloads\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
+C:\Users\Ken\Source\Repos\Evaluation\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\Ken\Source\Repos\Evaluation\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\Ken\Source\Repos\Evaluation\ThirdPartyTools\obj\Debug\ThirdPartyTools.csprojAssemblyReference.cache
+C:\Users\Ken\Source\Repos\Evaluation\ThirdPartyTools\obj\Debug\ThirdPartyTools.csproj.CoreCompileInputs.cache
+C:\Users\Ken\Source\Repos\Evaluation\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\Ken\Source\Repos\Evaluation\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
